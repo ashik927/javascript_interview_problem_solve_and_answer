@@ -1,0 +1,6 @@
+let x = 'bob';
+let y = 'john';
+
+[x, y]=[y, x];
+
+console.log(x, y)
